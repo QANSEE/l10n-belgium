@@ -28,8 +28,8 @@ msgstr "Appliquer"
 
 #. module: account_companyweb
 #: field:res.partner,cweb_balance_year:0
-msgid "Année de la Balance"
-msgstr "Balance Year"
+msgid "Balance Year"
+msgstr "Année de la balance"
 
 #. module: account_companyweb
 #: view:account.companyweb.config.settings:account_companyweb.companyweb_config_settings
@@ -107,7 +107,7 @@ msgstr "Créé le"
 #. module: account_companyweb
 #: field:res.partner,cweb_creditLimit:0
 msgid "Credit limit"
-msgstr "Limite de Crédit"
+msgstr "Limite de crédit"
 
 #. module: account_companyweb
 #: field:res.partner,cweb_url:0
@@ -117,7 +117,7 @@ msgstr "Rapport Détaillé"
 #. module: account_companyweb
 #: field:res.partner,cweb_endDate:0
 msgid "End date"
-msgstr "Date de Fin"
+msgstr "Date de fin"
 
 #. module: account_companyweb
 #: field:res.partner,cweb_equityCapital:0
@@ -162,7 +162,7 @@ msgstr "Profit (Perte) de l'année fiscale (+/-)"
 #. module: account_companyweb
 #: field:res.partner,cweb_addedValue:0
 msgid "Gross Margin (+/-)"
-msgstr "Marge Brute (+/-)"
+msgstr "Marge brute (+/-)"
 
 #. module: account_companyweb
 #: field:res.partner,cweb_image:0
@@ -179,7 +179,7 @@ msgstr "ID"
 #. module: account_companyweb
 #: field:res.partner,cweb_jur_form:0
 msgid "Juridical Form"
-msgstr "Forme Juridique"
+msgstr "Forme juridique"
 
 #. module: account_companyweb
 #: field:res.partner,cweb_lastupdate:0
@@ -224,7 +224,7 @@ msgstr "Code Postal"
 #. module: account_companyweb
 #: field:res.partner,cweb_prefLang:0
 msgid "Preferred Language"
-msgstr "Langue Préférrée"
+msgstr "Langue préférrée"
 
 #. module: account_companyweb
 #: view:res.partner:account_companyweb.partner_form_companyweb
@@ -234,7 +234,7 @@ msgstr "Rapport Premium"
 #. module: account_companyweb
 #: field:res.partner,cweb_startDate:0
 msgid "Start date"
-msgstr "Date de Début"
+msgstr "Date de début"
 
 #. module: account_companyweb
 #: field:res.partner,cweb_vat_liable:0
