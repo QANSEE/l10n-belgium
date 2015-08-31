@@ -208,17 +208,17 @@ msgstr "Capitaux propres"
 #: code:addons/account_companyweb/model/companyweb_rest.py:55
 #, python-format
 msgid "Error loading Companyweb data:\n"
-"%s.\n"
-"\n"
-"Please check your credentials in settings/configuration/Companyweb. Also ensure, XMLAccess is enabled for your companyweb account\n"
+"%s."
+msgstr "Erreur au chargement des données de Companyweb:\n"
+"%s."
+
+#. module: account_companyweb
+#: code:addons/account_companyweb/model/companyweb_rest.py:56
+#, python-format
+msgid "Please check your credentials in settings/configuration/Companyweb. Also ensure, XMLAccess is enabled for your companyweb account\n"
 "\n"
 "Login on www.companyweb.be with login 'cwacsone' and password 'demo' to obtain test credentials."
-msgstr "Erreur au chargement des données de Companyweb:\n"
-"%s.\n"
-"\n"
-"Veuillez vérifier vos accès dans settings/configuration/Companyweb. Assurez-vous égalment que XMLAccess est activé pour votre compte chez companyweb\n"
-"\n"
-""
+msgstr "Veuillez vérifier vos accès dans settings/configuration/Companyweb. Assurez-vous égalment que XMLAccess est activé pour votre compte chez companyweb"
 
 #. module: account_companyweb
 #: field:account.companyweb.report.wizard,export_filename:0
